@@ -5,7 +5,8 @@ This repository contains a collection of simple *GPT* generated scripts in vario
 
 ---
 
-### Included languages:
+## Included languages
+
 - `Bash`
 - `C++`
 - `C#`
@@ -25,13 +26,8 @@ This repository contains a collection of simple *GPT* generated scripts in vario
 - `Swift`
 - `TypeScript`
 
-
 ---
----
-### **[Self-Promotion]**
 
+## **[Self-Promotion]**
 
-
-
-
-While you are here, you can also check out my [Color Theme](https://github.com/OmegaDawn/cyberspace_color_theme) **:)**
+While you are here, you can also check out this [Color Theme](https://github.com/OmegaDawn/cyberspace_color_theme) **:)**
