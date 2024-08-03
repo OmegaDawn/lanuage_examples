@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "phone": "+1234567890",
+      "address": {
+        "street": "123 Elm Street",
+        "city": "Somewhere",
+        "state": "CA",
+        "zip": "90210"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "phone": "+0987654321",
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Anywhere",
+        "state": "NY",
+        "zip": "12345"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "email": "carol.white@example.com",
+      "phone": "+1122334455",
+      "address": {
+        "street": "789 Pine Road",
+        "city": "Everytown",
+        "state": "TX",
+        "zip": "67890"
+      }
+    }
+  ]
+}
